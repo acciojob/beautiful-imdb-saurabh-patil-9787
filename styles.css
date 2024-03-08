@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.moviePic>img{
+	height:400px;
+	width:400px;
+	border:1px solid blue;
+	opacity:0.7;
+	/* text-align:center; */
+}
+.moviebody{
+	/* text-align:center; */
+ } 
+
+.movieDetail{
+	text-align:center;
+	width:300px;
+	font-size:20px;
+	position:relative;
+	top:0px;
+}
